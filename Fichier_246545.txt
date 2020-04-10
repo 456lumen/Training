@@ -1,1 +1,4 @@
 Rajout de texte commité mais non pushé
+Je met autre chose depuis github.com parce qu'on travaille trop. 
+
+Deuxièle ligne depuis github.com. 
